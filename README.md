@@ -4,7 +4,7 @@
 
 **Elektronika va mikrokontroller tizimlari muhandisi · Doktorant tadqiqotchi**
 
-Buxoro davlat texnika universitetida assistentman. Fotoelektrik tizimlarning energetik parametrlarini monitoring va diagnostika qilish bo‘yicha tadqiqot olib boraman. Elektron o‘lchash qurilmalari, PCB, Arduino dasturlari va kompyuter orqali boshqarish tizimlarini ishlab chiqaman.
+Buxoro davlat texnika universiteti assistenti, PhD izlanuvchisiman. Fotoelektrik tizimlar monitoringi va diagnostikasi bo‘yicha tadqiqot olib boraman. Elektron qurilmalar, mikrokontrollerlar va sensorlar bilan ishlayman, EasyEDA Pro’da ko‘p qatlamli PCB loyihalayman. Internetdagi nikim — usta_hasan.
 
 [Batafsil tarjimayi hol](https://github.com/usta-hasan/engineering-portfolio/blob/main/ABOUT.md) · [Loyihalar](https://github.com/usta-hasan/engineering-portfolio) · [Wikipedia foydalanuvchi sahifam](https://uz.wikipedia.org/wiki/Foydalanuvchi:Sayfiyev_Hasan)
 
